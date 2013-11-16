@@ -270,9 +270,9 @@ return array(
 		 *     array('auth'	=> PKGPATH.'auth/')
 		 * );
 		 */
-		// 'packages'  => array(
-		// 	//'orm',
-		// ),
+		 //'packages'  => array(
+		 	//'orm',
+		 //),
 
 		/**
 		 * These modules are always loaded on Fuel's startup. You can specify them
@@ -287,7 +287,7 @@ return array(
 		/**
 		 * Classes to autoload & initialize even when not used
 		 */
-		// 'classes'  => array(),
+		 //'classes'  => array(),
 
 		/**
 		 * Configs to autoload
